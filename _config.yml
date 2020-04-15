@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Pavel Dekhman"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatar.JPG"
   bio              : "Data Scientist"
   location         : "New York"
   email            :
@@ -282,7 +282,7 @@ defaults:
       comments: # true
       share: true
       related: true
-      
+
   # _pages
   - scope:
       path: ""
